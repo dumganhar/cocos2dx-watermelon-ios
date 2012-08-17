@@ -263,7 +263,7 @@ var GameLayer = cc.LayerGradient.extend({
 
         this._shapesToRemove = [];
 
-        this.initHUD();
+					//this.initHUD();
 
         this._score = 0;
         this._time = 0;
